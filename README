@@ -1,0 +1,3 @@
+A script program, similar to Unix script program that forks a child and then
+executes a program passed as an argument with the supplied arguments and intercepts all output from and input to
+that program. The program logs all input/output traffice to and from the executed program.
